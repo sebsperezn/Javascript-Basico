@@ -3,7 +3,7 @@ Curso de Javascript básico de Platzi
 
 ## Contenido
 - [Introducción a Javascript](Introducción-a-Javascript)
-  - [¿Qué es JavaScript?](¿Qué-es-Javascript?)
+  - [¿Qué es JavaScript?](que-es-javascript)
   - ¿Por qué JavaScript?
   - Elementos de un lenguaje de programación: Variables, Funciones y Sintaxis
   - Variables en JavaScript
